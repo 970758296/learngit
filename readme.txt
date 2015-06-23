@@ -1,2 +1,2 @@
-this is my first file to learn git.
-git is very good.
+my first file to learn git.
+git is good.
